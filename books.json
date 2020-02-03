@@ -1,0 +1,73 @@
+[
+	{"id":1,
+	 "name":"One Indian Girl  (English, Paperback, Chetan Bhagat)",
+	 "author":"Chetan Bhagat",
+	 "publication_year":2016,
+	 "description":"Bestselling author Chetan Bhagat, writing for the first time in a female voice, brings to you One Indian Girl, the heart-warming story of a modern Indian girl.",
+	 "rating":4.2,
+	 "price":70	 
+	},
+	
+	{"id":2,
+	 "name":"Life is What you Make It  (English, Paperback, Preeti Shenoy)",
+	 "author":"Preeti Shenoy",
+	 "publication_year":2011,
+	 "description":"Life Is What You Make It is a story about a young female protagonist whose life gets shaken by her destiny in a highly unexpected manner.",
+	 "rating":4,
+	 "price":135	
+	},
+	
+	{"id":3,
+	 "name":"Indian Polity 5 Edition  (English, Paperback, M. Laxmikanth)",
+	 "author":"M. Laxmikanth",
+	 "publication_year":2016,
+	 "description":"McGraw Hill is proud to present the fifth edition of Indian Polity by M Laxmikanth. The book itself needs no introduction. ",
+	 "rating":4.5,
+     "price":419	 
+	},
+	
+	{"id":4,
+	 "name":"Sita-Warrior of Mithila(Book 2 - Ram Chandra Series)",
+	 "author":"Amish",
+	 "publication_year":2013,
+	 "description":"Immerse yourself in book 2 of the Ram Chandra series, based on the Ramayana, the story of Lady Sita, written by the multi-million bestselling Indian Author Amish",
+	 "rating":4.5,
+     "price":155	 
+	},
+	
+	{"id":5,
+	 "name":"Indian History : For Civil Services Examinations Second Edition",
+	 "author":" K Krishna Reddy ",
+	 "publication_year":2017,
+	 "description":"McGraw Hill Education is proud to present the second edition of Indian History By Krishna Reddy which provides a comprehensive approach to the various aspects of the subject. ",
+	 "rating":4.4,
+	 "price":490	
+	},
+	
+	{"id":6,
+	 "name":"Manorama Yearbook 2018",
+	 "author":"Manorama",
+	 "publication_year":2018,
+	 "description":"Manorama Year Books in English is India`s most popular GK fact book. The Yearbook is extremely useful for students preparing for various Competitive and entrance exams. ",
+	 "rating":4.4,
+	 "price":240	
+	},
+	
+	{"id":7,
+	 "name":"Geography of India Seventh Edition ",
+	 "author":"Majid Husain",
+	 "publication_year":2017,
+	 "description":"Geography of India, our flagship titles is entering its 7e. This book is an established manual on the subject by Majid Husain and is a bestseller in the segment. ",
+	 "rating":4.4,
+     "price":225	 
+	},
+	
+	{"id":8,
+	 "name":"Certificate Physical and Human Geography",
+	 "author":"GOH CHENG LEONG",
+	 "publication_year":1995,
+	 "description":"Certificate Physical And Human Geography covers various geographical concepts that are essential for a good understanding of the subject.",
+	 "rating":4.5,
+     "price":211	 
+	}
+]
